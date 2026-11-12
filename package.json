@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ashok238/jwt-auth-frontend",
+  "homepage": "https://ashok238.github.io/jwt-auth-frontend",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
